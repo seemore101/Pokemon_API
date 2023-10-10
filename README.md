@@ -41,7 +41,7 @@ My chosen API for this project is **enter here**.
 Here's a video / GIF that demos all of the app's implemented features:
 ![Kapture 2023-10-09 at 21 59 53](https://github.com/seemore101/Pokemon_API/assets/82735897/fead1fea-60b8-482f-8551-affb8144943c)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/VUgS2gU.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
